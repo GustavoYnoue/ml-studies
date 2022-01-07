@@ -1,2 +1,1 @@
-# ml-studies
-Machine Learning studies
+# Machine Learning Studies
